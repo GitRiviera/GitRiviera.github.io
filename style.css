@@ -94,31 +94,31 @@ li>div{
     height: 4000px;
     /* -ms-grid-rows: (var(--row_height))[52] auto 300px; */
     grid-template-rows: repeat(52, var(--row_height)) auto 300px;
-    background-image: url("images/backgrounds/bckg_tubes2_dim.jpg");
+    background-image: url("images/backgrounds/bckg_tubes2_dim.webp");
 }
 #prod-main-container{
     height: 5500px;
     /* -ms-grid-rows: (var(--row_height))[83] auto 300px; */
     grid-template-rows: repeat(83, var(--row_height)) auto 300px;
-    background-image: url("images/backgrounds/bckg_assay_dim.jpg");
+    background-image: url("images/backgrounds/bckg_assay_dim.webp");
 }
 #faq-main-container{
     height: 3000px;
     /* -ms-grid-rows: (var(--row_height))[45] auto 300px; */
     grid-template-rows: repeat(45, var(--row_height)) auto 300px;
-    background-image: url("images/backgrounds/bckg_tubes_spectre_cropped1.jpg");
+    background-image: url("images/backgrounds/bckg_tubes_spectre_cropped1.webp");
 }
 #res-main-container{
     height: 1000px;
     /* -ms-grid-rows: (var(--row_height))[20] auto 300px; */
     grid-template-rows: repeat(20, var(--row_height)) auto 300px;
-    background-image: url("images/backgrounds/bckg_tubes3_cropped.jpg");
+    background-image: url("images/backgrounds/bckg_tubes3_cropped.webp");
 }
 #contact-main-container{
     height: 1000px;
     /* -ms-grid-rows: (var(--row_height))[20] auto 300px; */
     grid-template-rows: repeat(20, var(--row_height)) auto 300px;
-    background-image: url("images/backgrounds/bckg_tubes_dim.jpg");
+    background-image: url("images/backgrounds/bckg_tubes_dim.webp");
     /* background-size:contain; */
 }
 
@@ -565,7 +565,7 @@ li>div{
 .prot-bckg{
     position: relative;
     z-index:42;
-    background-image: url("images/prot_dim1_grey.png");
+    background-image: url("images/prot_dim1_grey.webp");
     background-repeat: no-repeat;
     background-position: center;
     /* background-size: auto 110%; */
@@ -1072,19 +1072,19 @@ padding: 20px 50px;
 
 /* Background-texture for the buttons */
 #sbpr-box1{
-    background-image: url("images/textures/AAA1.jpg");
+    background-image: url("images/textures/AAA1.webp");
 }
 #sbpr-box2{
-    background-image: url("images/textures/AAA2.jpg");
+    background-image: url("images/textures/AAA2.webp");
 }
 #sbpr-box3{
-    background-image: url("images/textures/AAA3.jpg");
+    background-image: url("images/textures/AAA3.webp");
 }
 #sbpr-box4{
-    background-image: url("images/textures/AAA4.jpg");
+    background-image: url("images/textures/AAA4.webp");
 }
 #sbpr-box5{
-    background-image: url("images/textures/AAA5.jpg");
+    background-image: url("images/textures/AAA5.webp");
 }
 
 
@@ -1468,11 +1468,11 @@ padding: 20px 50px;
     grid-row:2/span 5;  
 }
 #sbres-box1{
-    background-image: url("images/texture1.jpg");
+    background-image: url("images/texture1.webp");
     /* background-size: cover; */
 }
 #sbres-box2{
-    background-image: url("images/texture1.jpg");
+    background-image: url("images/texture1.webp");
     /* background-size: cover; */
 }
 #linksandres{
