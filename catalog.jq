@@ -4,8 +4,13 @@
 jq -r '.[] | 
 "
 <div class=\"product-section\">
-    <h1 class=\"product-section-title\">\(.section)\"</h1>
-    <img src=\"\(.img)\">
+    <div class=\"product-text-img-title-cont\">
+        <div class=\"product-text-title-cont\">
+            <h1 class=\"product-section-title\">\(.section)</h1>
+            <p> \(.text // "" ) </p>
+        </div>
+        <img src=\"\(.img)\">
+    </div>
 ",
 ( .products[] | "
     <div class=\"product-cont\">
@@ -15,11 +20,17 @@ jq -r '.[] |
         </div>
         <h3 class=\"product-subtitle\">\(.subtitle)</h3>
         <p>\(.text)</p>
+        <div class=\"product-graph-cont\">
+            <img class=\"product-graph\" src=\"\(.graph // "" )\">
+            <p>\(.sidetext // "")</p>
+        </div>
     </div>
 "),
 "</div>"
 ' $1
 #
-
-#"
-#",
+#( .products[].graph? | "
+#    <div class=\"product-graph-cont\">
+#        <img src=\"\(.)\">
+#    </div>
+#"),
