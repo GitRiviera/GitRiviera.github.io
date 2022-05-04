@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         {{ cat partials/head.html }}
-        <title>LaserBio Labs | FAQ</title>
+        <title>LaserBio Labs | Catalog</title>
         <link rel="stylesheet" href="style.css">
     </head>
     
@@ -10,10 +10,9 @@
 
         {{ cat partials/nav.html }}
         <section class="">
-
-        <h1 class="section-title">Frequently asked questions</h1>
-        {{ cat faq.yaml | ./faq.awk }}
+        <h1 class="section-title">Catalog</h1>
         </section>
+        {{ ./catalog.jq catalog.json}}
 
         {{ cat partials/footer.html}}
     </body>

@@ -1,3 +1,4 @@
 *.xcf
 hugo-laserbiolabs/public
 hugo-laserbiolabs/theme/laserbiolabs/static/img
+public/
