@@ -230,6 +230,7 @@ img[src="null"]{
 }
 .product-price{
     font-size: 20px;
+    font-weight: 700;
     color: rgb(255, 131,101);
 }
 .product-graph-cont{

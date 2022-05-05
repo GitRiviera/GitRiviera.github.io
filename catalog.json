@@ -77,7 +77,7 @@
         "section": "Bulk Matrix",
         "anchor": "bulk-matrix",
         "text": "",
-        "img": "images/products--matrix-kits.webp",
+        "img": "images/products--bulk-matrix.webp",
         "products":[
             {
                 "title": "M012",
@@ -157,7 +157,7 @@
         "section": "Peptide calibration mixtures",
         "anchor": "peptide-calibration-mixtures",
         "text": "",
-        "img": "images/products--matrix-kits.webp",
+        "img": "images/products--peptide-calibration-mixtures.webp",
         "products":[
             {
                 "title": "C101",
@@ -213,7 +213,7 @@
         "section": "Protein calibration mixtures",
         "anchor": "protein-calibration-mixtures",
         "text": "",
-        "img": "images/products--matrix-kits.webp",
+        "img": "images/products--protein-calibration-mixtures.webp",
         "products":[
             {
                 "title": "C107",
@@ -252,7 +252,7 @@
         "section": "Calibration kits",
         "anchor": "calibration-kits",
         "text": "Our calibration kits contain calibrated peptide and protein  mixtures, designed for analytical reproducibility and consistent signal-to-noise ratio, as well as individual calibrants and diluent.<br>They provide reproducible, standard analytical conditions to eliminate the need for cumbersome preparation of calibrant mixtures.<br>They are prepared and conditioned with the highest purity chemicals, in a form adapted to everyday use in the mass spectrometry laboratory.",
-        "img": "images/products--matrix-kits.webp",
+        "img": "images/products--calibration-kits.webp",
         "products":[
             {
                 "title": "C001",
@@ -284,7 +284,7 @@
         "section": "Protein trypsin digest kits",
         "anchor": "protein-trypsin-digest-kits",
         "text": "Our protein digests kits contain calibrated peptide mixtures, obtained from controlled trypsin digestion of well characterized proteins. They provide quantified, standardized digests for proteomics and LC-MS applications and eliminate the variability and cumbersome preparation of trypsin digestions.<br>Digests are prepared with pure natural proteins and conditioned, in a form adapated to everyday use int he mass spectrometry lab",
-        "img": "images/products--matrix-kits.webp",
+        "img": "images/products--trypsin-digest-kits.webp",
         "products":[
             {
                 "title": "D101",
