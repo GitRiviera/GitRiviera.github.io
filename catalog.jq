@@ -22,7 +22,7 @@ jq -r '.[] |
         <p>\(.text)</p>
         <div class=\"product-graph-cont\">
             <img class=\"product-graph\" src=\"\(.graph // "" )\">
-            <p>\(.sidetext // "")</p>
+            <div class=\"sidetext\">\(.sidetext // "")</div>
         </div>
     </div>
 "),

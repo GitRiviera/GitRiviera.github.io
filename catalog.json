@@ -161,7 +161,7 @@
                 "subtitle": "Peptide calibration mix 1 (PepMix1) 1000-2500 Da",
                 "price": "185 €",
                 "text": "5 tubes of peptide calibration mixture 1. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table>  <tr>  <td> Angiotensi II</td>   <td>(1046.2 Da)</td></tr>  <tr>  <td>Angiotensi I</td>     <td>(1296.5 Da)</td></tr>  <tr>  <td>Neurotensin</td>      <td>(1672.9 Da)</td></tr>  <tr>  <td>ACTH[1-17]</td>       <td>(2093.5 Da)</td></tr>  <tr>  <td>ACTH[18-39]</td>      <td>(2465.7 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table>  <tr>  <td> Angiotensi II</td>   <td>(1046.2 Da)</td></tr>  <tr>  <td>Angiotensi I</td>     <td>(1296.5 Da)</td></tr>  <tr>  <td>Neurotensin</td>      <td>(1672.9 Da)</td></tr>  <tr>  <td>ACTH[1-17]</td>       <td>(2093.5 Da)</td></tr>  <tr>  <td>ACTH[18-39]</td>      <td>(2465.7 Da)</td></tr></table></div>",
                 "graph":"images/graph--C101.png"
             },
             {
@@ -169,7 +169,7 @@
                 "subtitle": "Peptide calibration mix 2 (PepMix2) 1500-6000 Da",
                 "price": "185 €",
                 "text": "5 tubes of peptide calibration mixture 2. Each tube provides 1000 calibration points",
-                "sidetext": "Contains:<br><table><tr><td>Neurotensin            </td>   <td>(1672.9 Da)</td></tr><tr><td>ACTH[18-39]            </td>   <td>(2465.7 Da)</td></tr><tr><td>Bovine Insulin chain B </td>   <td>(3495.9 Da)</td></tr><tr><td>Bovine insulinn        </td>   <td>(5733.6 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Neurotensin            </td>   <td>(1672.9 Da)</td></tr><tr><td>ACTH[18-39]            </td>   <td>(2465.7 Da)</td></tr><tr><td>Bovine Insulin chain B </td>   <td>(3495.9 Da)</td></tr><tr><td>Bovine insulinn        </td>   <td>(5733.6 Da)</td></tr></table></div>",
                 "graph":"images/graph--C102.png"
             },
             {
@@ -177,7 +177,7 @@
                 "subtitle": "Peptide calibration mix 3 (PepMix3) 3000-9000 Da",
                 "price": "185 €",
                 "text": "5 tubes of peptide calibration mixture 3. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table><tr><td>Bovine Insulin chain B </td>     <td>(3495.9 Da)</td></tr><tr><td>Bovine Insuline        </td>     <td>(5733.6 Da)</td></tr><tr><td>Aprotinin              </td>     <td>(6511.5 Da)</td></tr><tr><td>Ubliquitin bovine      </td>     <td>(8564.8 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Bovine Insulin chain B </td>     <td>(3495.9 Da)</td></tr><tr><td>Bovine Insuline        </td>     <td>(5733.6 Da)</td></tr><tr><td>Aprotinin              </td>     <td>(6511.5 Da)</td></tr><tr><td>Ubliquitin bovine      </td>     <td>(8564.8 Da)</td></tr></table></div>",
                 "graph":"images/graph--C103.png"
             },
             {
@@ -185,7 +185,7 @@
                 "subtitle": "Peptide calibration mix 4 (ProteoMix) 500-3500 Da",
                 "price": "185 €",
                 "text": "5 tubes of peptide calibration mixture 4. Each tube provides 1000 calibration points. Specially developed for calibration of proteolytic peptide mixtures and proteomics applications<br>",
-                "sidetext": "Contains:<br><table><tr><td>Bradykinin[1-5]        </td><td>  (572.7 Da)</td></tr><tr><td>Angiotensin II         </td><td> (1046.2 Da)</td></tr><tr><td>Neurotensin            </td><td> (1672.9 Da)</td></tr><tr><td>ACTH[18-39]            </td><td> (2465.7 Da)</td></tr><tr><td>Bovine Insulin chain B </td><td> (3495.9 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Bradykinin[1-5]        </td><td>  (572.7 Da)</td></tr><tr><td>Angiotensin II         </td><td> (1046.2 Da)</td></tr><tr><td>Neurotensin            </td><td> (1672.9 Da)</td></tr><tr><td>ACTH[18-39]            </td><td> (2465.7 Da)</td></tr><tr><td>Bovine Insulin chain B </td><td> (3495.9 Da)</td></tr></table></div>",
                 "graph":"images/graph--C104.png"
             },
             {
@@ -193,7 +193,7 @@
                 "subtitle": "Peptide calibration mix 5 (PepMix5) 500-2000 Da",
                 "price": "185 €",
                 "text": "5 tubes of peptide calibration mixture 5. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table><tr><td>Bradykinin[1-5] </td><td>     (572.7 Da)</td></tr><tr><td>Bradykinin[1-7] </td><td>     (756.9 Da)</td></tr><tr><td>Bradykinin      </td><td>    (1060.2 Da)</td></tr><tr><td>Angiotensin I   </td><td>    (1296.5 Da)</td></tr><tr><td>Neurotensin     </td><td>    (1672.9 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Bradykinin[1-5] </td><td>     (572.7 Da)</td></tr><tr><td>Bradykinin[1-7] </td><td>     (756.9 Da)</td></tr><tr><td>Bradykinin      </td><td>    (1060.2 Da)</td></tr><tr><td>Angiotensin I   </td><td>    (1296.5 Da)</td></tr><tr><td>Neurotensin     </td><td>    (1672.9 Da)</td></tr></table></div>",
                 "graph":"images/graph--C105.png"
             },
             {
@@ -201,7 +201,7 @@
                 "subtitle": "Peptide calibration mix 6 (PepMix6) 350-1000 Da",
                 "price": "185 €",
                 "text": "5 tubes of peptide calibration mixture 6. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table><tr><td>Bradykinin[1-5]</td><td>   (572.7 Da)</td></tr><tr><td>Bradykinin[1-7]</td><td>   (756.0 Da)</td></tr><tr><td>Bradykinin[1-8]</td><td>   (904.0 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Bradykinin[1-5]</td><td>   (572.7 Da)</td></tr><tr><td>Bradykinin[1-7]</td><td>   (756.0 Da)</td></tr><tr><td>Bradykinin[1-8]</td><td>   (904.0 Da)</td></tr></table></div>",
                 "graph":"images/graph--C106.png"
             }
         ]
@@ -216,7 +216,7 @@
                 "subtitle": "Protein calibration mix 1 (ProMix1) 5,700-17,0000 Da",
                 "price": "185 €",
                 "text": "5 tubes of protein calibration mixture 1. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table><tr><td>Bovine Insulin             </td><td>    (5733.6 Da)</td></tr><tr><td>Horse heart cytochrome C   </td><td>   (12360.1 Da)</td></tr><tr><td>Horse myoglobin            </td><td>   (16951.5 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Bovine Insulin             </td><td>    (5733.6 Da)</td></tr><tr><td>Horse heart cytochrome C   </td><td>   (12360.1 Da)</td></tr><tr><td>Horse myoglobin            </td><td>   (16951.5 Da)</td></tr></table></div>",
                 "graph":"images/graph--C107.png"
             },
             {
@@ -224,7 +224,7 @@
                 "subtitle": "Protein calibration mix 2 (ProMix2) 8,000-24,000 Da",
                 "price": "185 €",
                 "text": "5 tubes of protein calibration mixture 2. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table><tr><td>Horse heart cytochrome C </td><td>  (12360.1 Da)</td></tr>  <tr><td>Horse myoglobin          </td><td>  (16951.5 Da)</td></tr><tr><td>Trypsinogen              </td><td>  (23980.9 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Horse heart cytochrome C </td><td>  (12360.1 Da)</td></tr>  <tr><td>Horse myoglobin          </td><td>  (16951.5 Da)</td></tr><tr><td>Trypsinogen              </td><td>  (23980.9 Da)</td></tr></table></div>",
                 "graph":"images/graph--C108.png"
             },
             {
@@ -232,7 +232,7 @@
                 "subtitle": "Protein calibration mix 3 (ProMix3) 23,000-66,000 Da",
                 "price": "185 €",
                 "text": "5 tubes of protein calibration mixture 3. Each tube provides 1000 calibration points<br>",
-                "sidetext": "Contains:<br><table><tr><td>Trypsinogen          </td><td> (23980.9 Da)</td></tr><tr><td>Yeast enolase        </td><td> (46670.9 Da)</td></tr><tr><td>Bovine serum albumin </td><td> (66429.9 Da)</td></tr></table>",
+                "sidetext": "<b>Contains:</b><br><div><table><tr><td>Trypsinogen          </td><td> (23980.9 Da)</td></tr><tr><td>Yeast enolase        </td><td> (46670.9 Da)</td></tr><tr><td>Bovine serum albumin </td><td> (66429.9 Da)</td></tr></table></div>",
                 "graph":"images/graph--C109.png"
             },
             {
@@ -240,7 +240,7 @@
                 "subtitle": "Protein calibration standards 12,000-66,000 Da",
                 "price": "185 €",
                 "text": "5 tubes of individual protein calibrants. Each tube provides 1000 calibration points<br>",
-                "sidetext":"Contains:<br><table><tr><td>Horse heart cytochrome C  </td><td>    (12360.1 Da)</td></tr><tr><td>Horse myoglobin           </td><td>    (16951.5 Da)</td></tr><tr><td>Trypsinogen               </td><td>    (23980.9 Da)</td></tr><tr><td>Yeast enolase             </td><td>    (46670.9 Da)</td></tr><tr><td>Bovine serum albumin      </td><td>    (66429.9 Da)</td></tr></table>"
+                "sidetext":"<b>Contains:</b><br><table><tr><td>Horse heart cytochrome C  </td><td>    (12360.1 Da)</td></tr><tr><td>Horse myoglobin           </td><td>    (16951.5 Da)</td></tr><tr><td>Trypsinogen               </td><td>    (23980.9 Da)</td></tr><tr><td>Yeast enolase             </td><td>    (46670.9 Da)</td></tr><tr><td>Bovine serum albumin      </td><td>    (66429.9 Da)</td></tr></table>"
             }
         ]
     },
