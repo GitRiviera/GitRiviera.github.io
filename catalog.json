@@ -1,6 +1,7 @@
 [
     {
         "section": "Matrix kits",
+        "anchor": "matrix-kits",
         "text": "MALDI matrix kits contain pre-weighed tubes of recrystallized matrices and adatped solvent mixtures. They provide standard analytical conditions and eliminate the need for cumbersome daily preparation of fresh matrix. Recrystallized and caption-depleted matrix provides higher sensitivity and sensitivity and improved signal-to-noise ration when compared to non-recrystallized standard product.",
         "img": "images/products--matrix-kits.webp",
         "products":[
@@ -74,6 +75,7 @@
     },
     {
         "section": "Bulk Matrix",
+        "anchor": "bulk-matrix",
         "text": "",
         "img": "images/products--matrix-kits.webp",
         "products":[
@@ -153,6 +155,7 @@
     },
     {
         "section": "Peptide calibration mixtures",
+        "anchor": "peptide-calibration-mixtures",
         "text": "",
         "img": "images/products--matrix-kits.webp",
         "products":[
@@ -208,6 +211,7 @@
     },
     {
         "section": "Protein calibration mixtures",
+        "anchor": "protein-calibration-mixtures",
         "text": "",
         "img": "images/products--matrix-kits.webp",
         "products":[
@@ -246,6 +250,7 @@
     },
     {
         "section": "Calibration kits",
+        "anchor": "calibration-kits",
         "text": "Our calibration kits contain calibrated peptide and protein  mixtures, designed for analytical reproducibility and consistent signal-to-noise ratio, as well as individual calibrants and diluent.<br>They provide reproducible, standard analytical conditions to eliminate the need for cumbersome preparation of calibrant mixtures.<br>They are prepared and conditioned with the highest purity chemicals, in a form adapted to everyday use in the mass spectrometry laboratory.",
         "img": "images/products--matrix-kits.webp",
         "products":[
@@ -277,6 +282,7 @@
     },
     {
         "section": "Protein trypsin digest kits",
+        "anchor": "protein-trypsin-digest-kits",
         "text": "Our protein digests kits contain calibrated peptide mixtures, obtained from controlled trypsin digestion of well characterized proteins. They provide quantified, standardized digests for proteomics and LC-MS applications and eliminate the variability and cumbersome preparation of trypsin digestions.<br>Digests are prepared with pure natural proteins and conditioned, in a form adapated to everyday use int he mass spectrometry lab",
         "img": "images/products--matrix-kits.webp",
         "products":[

@@ -3,7 +3,7 @@
 # two filters separated by a comma will have the same output piped to them
 jq -r '.[] | 
 "
-<div class=\"product-section\">
+<div id=\"\(.anchor)\" class=\"product-section\">
     <div class=\"product-text-img-title-cont\">
         <div class=\"product-text-title-cont\">
             <h1 class=\"product-section-title\">\(.section)</h1>
